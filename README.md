@@ -3,3 +3,11 @@ Based on the basics of SET theory, Kraftsets provides a relatively simple API an
 
 ## USE CASES
 
+## Underlying technologies
+- Backend logic: GO
+- Default UI for SET designer: React
+- CLI tools to generate SET JSONs via code: PHP8
+- Default storage: Redis
+- Default SET underlying engine: Redis 
+- Default deployment: AWS Lambda with SAM CLI
+
