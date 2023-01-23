@@ -1,5 +1,5 @@
-# kraft-sets ("kraft" means "power" in Yiddish)
-Based on SET theory, This system prived a simpler API and GUI to create complex groups (SETs) of data out of a basic set of groups.
+# kraftsets
+Based on he basics of SET theory, Kraftsets provides a relative simple API and GUI to create complex groups (SETs) based on your data. "Why would I need this?" you might ask yourself. Read the **use case** section right below.
 
 ## USE CASES
 
